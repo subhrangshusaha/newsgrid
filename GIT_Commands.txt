@@ -1,3 +1,0 @@
-1. git init - Initialization
-2. git status - check staging area
-3. 
